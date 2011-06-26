@@ -4,5 +4,6 @@
 
 Thanks to <https://github.com/ajpiano/boilerplate-boilerplate>
 
-<3,
+< 3,
+
 <https://github.com/erikj/sandbox.css>
